@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Mr-MUDIYANSE/Test/blob/main/logo.png" height="150"/>
+  <img src="https://github.com/Mr-MUDIYANSE/Test/blob/main/logo.png" height="120"/>
 </p>
 <hr>
 
