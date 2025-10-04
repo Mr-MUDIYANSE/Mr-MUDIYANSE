@@ -12,11 +12,11 @@
 
 - 🌱 Currently diving deep into: **React, Vue, Laravel, Spring Boot, Angular, Flutter, MERN, .NET**
 - 🧠 Passionate about **Web Development**, **Mobile Apps**, **Cybersecurity**, and **Cloud Architecture**
-- 📚 I regularly write articles & tutorials on [My Portfolio](https://shorturl.at/jlqsZ)
-- 📁 View all my projects at [My Work Showcase](https://shorturl.at/jlqsZ)
+- 📚 I regularly write articles & tutorials on [My Portfolio]([https://shorturl.at/jlqsZ](https://www.kanishkamunasinghe.com/))
+- 📁 View all my projects at [My Work Showcase]([https://shorturl.at/jlqsZ](https://www.kanishkamunasinghe.com/))
 - 💬 Ask me about: `Java`, `.NET`, `React`, `Cybersecurity`
 - 📫 Reach me via email: **kanishka2001.info@gmail.com**
-- ⚡ Fun fact: You can call me **Kani 😄**
+- ⚡ Fun fact: You can call me **NISH 😄**
 
 ---
 
