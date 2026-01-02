@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Cybersecurity Enthusiast | Innovator</h3>
 <p align="center">
   🚀 Bridging code and security with passion. <br>
-  🎓 BSc (Hons) in Computer Science - University of Birmingham<br>
+  🎓 BSc (Hons) in Software Engineering - University of Birmingham City | United Kingdom<br>
   💡 Let's innovate, build, and secure the digital future — together!
 </p>
 
