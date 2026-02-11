@@ -3,19 +3,19 @@
 
 <p align="center">
   <a href="mailto:kanishka2001.info@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kanishka-munasinghe">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fb.com/kanishka%20rosairo">
-    <img src="https://img.shields.io/badge/-Facebook-1f1f1f?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/kanishka__rosairo">
-    <img src="https://img.shields.io/badge/-Instagram-1f1f1f?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.kanishkamunasinghe.com/">
-    <img src="https://img.shields.io/badge/-Portfolio-1f1f1f?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
