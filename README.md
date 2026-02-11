@@ -124,7 +124,7 @@ Birmingham City University – United Kingdom (2025)
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-MUDIYANSE&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-MUDIYANSE&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
