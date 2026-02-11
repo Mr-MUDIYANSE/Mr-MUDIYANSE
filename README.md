@@ -38,9 +38,7 @@ I specialize in designing RESTful APIs, backend architectures, and modern fronte
 
 ## 🎓 Education & Certifications
 
-🎓 **BSc (Hons) in Software Engineering**  
-Birmingham City University – United Kingdom (2025)
-
+🎓 **BSc (Hons) in Software Engineering - Birmingham City University – United Kingdom (2025)**  
 🎓 Professional Higher Diploma in Software Engineering – Level 5 (UK)  
 🎓 Professional Diploma in Software Engineering – Level 4 (UK)  
 🎓 Diploma in Information Technology – Pearson Assured  
@@ -88,8 +86,7 @@ Birmingham City University – United Kingdom (2025)
 `MySQL` `PostgreSQL` `MongoDB` `Firebase` `Supabase`
 
 ### ☁️ DevOps & Tools
-`Docker` `Git` `GitHub` `Postman` `Linux`  
-`IntelliJ` `VS Code` `WebStorm` `PhpStorm` `PyCharm`
+`Docker` `Git` `GitHub` `Postman` `Linux` `IntelliJ` `VS Code` `WebStorm` `PhpStorm` `PyCharm`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,java,spring,dotnet,php,laravel,mysql,mongodb,flutter,dart,angular,vue,python,redux,figma,aws,gcp,firebase,linux,arduino,docker,git,github" />
