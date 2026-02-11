@@ -80,6 +80,10 @@ Birmingham City University – United Kingdom (2025)
 `Docker` `Git` `GitHub` `Postman` `Linux`  
 `IntelliJ` `VS Code` `WebStorm` `PhpStorm` `PyCharm`
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,java,spring,dotnet,php,laravel,mysql,mongodb,flutter,dart,angular,vue,python,redux,figma,aws,gcp,firebase,linux,arduino,docker,git,github" />
+</p>
+
 ---
 
 ## 📌 Key Projects
