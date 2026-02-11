@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/-Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://www.linkedin.com/in/kanishka-munasinghe">
-    <img src="https://img.shields.io/badge/-LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fb.com/kanishka%20rosairo">
     <img src="https://img.shields.io/badge/-Facebook-1f1f1f?style=for-the-badge&logo=facebook&logoColor=1877F2" />
