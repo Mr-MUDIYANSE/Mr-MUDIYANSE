@@ -164,7 +164,7 @@ I am always open to:
 - Startup partnerships  
 - Open source contributions  
 
-📩 Reach me at: **kanishka2001.info@gmail.com**
+📩 Reach me at: **kanishkamunasinghe@proton.me**
 
 ---
 
